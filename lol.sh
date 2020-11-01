@@ -1,6 +1,6 @@
 #!/bin/bash
 clear
-echo 'selamat datang kaka'
+echo "selamat datang kaka"
 echo "siapa nama kaka?" #tulisan metu
 read nick #membaca tulisan
 termux-open https://www.instagram.com/siapa_namasaya23/
