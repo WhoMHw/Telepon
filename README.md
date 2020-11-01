@@ -1,0 +1,2 @@
+# Telepon
+Lah aku ngawur
